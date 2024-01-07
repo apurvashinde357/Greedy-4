@@ -1,4 +1,4 @@
-#TC: O(nlog)
+#TC: O(logn)
 #SC: O(n)
 import bisect
 class solution:
